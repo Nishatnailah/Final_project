@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HostelHub</string>
+    <string name="email">Email</string>
+    <string name="username">username</string>
+    <string name="sing_up">sing_up</string>
+    <string name="password">password</string>
+    <string name="confirm_password">Confirm_Password</string>
+    <string name="mobile_number">Mobile_Number</string>
+
+    <string name="ragister">Ragister</string>
+    <string name="ragisterr">Ragister</string>
+    <string name="login">Login</string>
+    <string name="select_image">select_image</string>
+
+    <string name="room_price">Room_Price</string>
+    <string name="room_types">Room_Types</string>
+    <string name="insert_demo">Insert_Demo</string>
+    <string name="view_demo_nupdate_demo_ndelete_demo">view_demo_nupdate_demo_ndelete_demo</string>
+    <string name="hello_admin">hello_admin</string>
+    <string name="view_update_delete">view update delete</string>
+    <string name="update_search_a_room_by_name">Update search a Room by name</string>
+</resources>
